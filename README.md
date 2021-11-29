@@ -6,6 +6,7 @@
 
 
 My website is https://nitlix.github.io
+![Hehe](https://nitlix.github.io)
 - You can reach me through discord: Nitlix#0001 if you'd like
 
 
