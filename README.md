@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitlix
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning C++ for Unity Game Development
 - 💞️ I’m looking to collaborate with anyone!
 
 
