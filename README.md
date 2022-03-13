@@ -5,7 +5,7 @@
 
 
 
-My website is https://nitlix.github.io
+My website is https://nitlix.pro
 - You can reach me through discord: Nitlix#0001 if you'd like
 
 
