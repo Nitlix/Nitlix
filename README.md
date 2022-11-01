@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Nitlix
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning C++ for Unity Game Development
+
+🔥 Howdy there, I’m Nit (he/him)🇨🇭🇬🇧 🇧🇬 
+🎉 Web & Server Dev/Designer since '17
+————————————————
+📁 (C:) Local Disk:
+     - https://nitlix.pro/
+     - https://cloud.nitlix.pro/
+     
+   
 - 💞️ I’m looking to collaborate with anyone!
 
 
