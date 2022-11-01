@@ -1,5 +1,6 @@
 
-🔥 Howdy there, I’m Nit (he/him)🇨🇭🇬🇧 🇧🇬 
+🔥 Howdy there, I’m Nit (he/him)
+
 🎉 Web & Server Dev/Designer since '17
 ————————————————
 📁 (C:) Local Disk:
