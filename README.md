@@ -25,10 +25,15 @@
 
 
 
-❤️‍🔥 My website is https://nitlix.pro
-- You can reach me through discord: Nitlix#0001 if you'd like
+❤️‍🔥 **My website is https://nitlix.pro**
+- You can also reach me through discord: Nitlix#0001 if you'd like
+
+💛** Frequent Languages**
+- HTML/CSS
+- JavaScript
+- Python
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=nitlix&show_icons=true&theme=vision-friendly-dark)
 
-![I code](https://github-readme-stats.vercel.app/api/top-langs/?username=nitlix&langs_count=10&theme=tokyonight&layout=compact)
+
