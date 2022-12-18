@@ -6,21 +6,27 @@
 ————————————————
 
 📁 (C:) Local Disk:
+
      - https://nitlix.pro/
+     
      - https://cloud.nitlix.pro/
      
 - 💞️ I’m looking to collaborate with anyone!
 
-**HERE IS SPEED**
+
+
+
+
+<br><br>
+
+**I AM ALL ABOUT SPEED**
 
 [<img src="https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif" alt="drawing" height="100"/>](https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif?size=512)
 
 
 
 
-
-
-
+<br><br>
 ❤️‍🔥 **My website is https://nitlix.pro**
 - You can also reach me through discord: Nitlix#0001 if you'd like
 
