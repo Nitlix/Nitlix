@@ -19,10 +19,13 @@
 
 **AND HERE'S THE MOST VIEWED DISCORD PIC OF 2022**
 
-<img src="https://i.cbc.ca/1.3600308.1464220798!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/canuck-the-crow-with-a-knife.jpg" alt="drawing" height="200"/>
+<img src="https://i.cbc.ca/1.3600308.1464220798!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/canuck-the-crow-with-a-knife.jpg" alt="drawing" height="100"/>
 
 
-My website is https://nitlix.pro
+
+
+
+❤️‍🔥 My website is https://nitlix.pro
 - You can reach me through discord: Nitlix#0001 if you'd like
 
 
