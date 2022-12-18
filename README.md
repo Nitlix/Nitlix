@@ -15,7 +15,7 @@
 
 **HERE IS SPEED**
 
-[<img src="https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif" alt="drawing" height="400"/>](https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif?size=512)
+[<img src="https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif" alt="drawing" height="100"/>](https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif?size=512)
 
 **AND HERE'S THE MOST VIEWED DISCORD PIC OF 2022**
 
