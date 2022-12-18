@@ -19,7 +19,7 @@
 
 **AND HERE'S THE MOST VIEWED DISCORD PIC OF 2022**
 
-<img src="[https://cdn.discordapp.com/banners/567641525706686474/a_c2345de8cbc20af0dff2bc17d1e591de.gif?size=1024](https://i.cbc.ca/1.3600308.1464220798!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/canuck-the-crow-with-a-knife.jpg)" alt="drawing" height="400"/>
+<img src="https://i.cbc.ca/1.3600308.1464220798!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/canuck-the-crow-with-a-knife.jpg" alt="drawing" height="200"/>
 
 
 My website is https://nitlix.pro
