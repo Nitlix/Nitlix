@@ -39,5 +39,6 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=nitlix&show_icons=true&theme=vision-friendly-dark)
 
 <br>
+
 *And here's a random crow with a knife, hope you had fun reading my entire profile 😎*
 <img src="https://i.cbc.ca/1.3600308.1464220798!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/canuck-the-crow-with-a-knife.jpg" alt="drawing" height="100"/>
