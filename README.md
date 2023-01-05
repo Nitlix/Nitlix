@@ -3,7 +3,7 @@
 
 I'm Nit (he/him), a Web & Server Dev/Designer ❤️‍🔥(since '17)  currently working at [Nitlix, eSwap, Fluid Client, Green Bot and more side projects.](https://nitlix.pro) 🥳
 
-I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
+I have a passion for clean and terribly fast code, optimised and free for all analytics and making the internet a private and safe place.
 
 My current side project is [eSwap (Yeah, it's private)](https://eswap.pro)
 
