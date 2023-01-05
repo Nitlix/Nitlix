@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Nit (he/him), a Web & Server Dev/Designer ❤️‍🔥(since '17)  currently working at [Takeaway.com](https://takeaway.com) 🍲🥡
+I'm Nit (he/him), a Web & Server Dev/Designer ❤️‍🔥(since '17)  currently working at [Nitlix, eSwap, Fluid Client, Green Bot and more side projects.](https://nitlix.pro) 🥳
 
 I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
 
