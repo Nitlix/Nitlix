@@ -13,4 +13,4 @@ My current side project is [eSwap (Yeah, it's private)](https://eswap.pro)
 
 [Website 🌍](https://nitlix.pro/)
 
-[Email 📬](mailto:n@nitlix.pro)
+[Email (n@nitlix.pro) 📬](mailto:n@nitlix.pro)
