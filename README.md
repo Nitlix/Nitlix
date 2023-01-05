@@ -5,9 +5,9 @@ I'm Nit (he/him), a Web & Server Dev/Designer ❤️‍🔥(since '17)  currentl
 
 I have a passion for clean code, Java, teaching, PHP, Lifeguarding and Javascript
 
-My current side project is [Markdown Profile](https://markdownprofile.com)
+My current side project is [eSwap (Yeah, it's private)](https://eswap.pro)
 
-[LinkedIn 💼](https://discord.com/users/567641525706686474)
+[Discord 🎮](https://discord.com/users/567641525706686474)
 
 [Twitter 🐦](https://twitter.com/nitlixis)
 
