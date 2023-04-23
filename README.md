@@ -7,6 +7,8 @@ I have a passion for clean and terribly fast code, optimised and free for all an
 
 My current side project is [eSwap (Yeah, it's private)](https://eswap.pro)
 
+Mates... I have 3 times more private repo's than public repos, so don't you worry about how much I code.
+
 [Discord 🎮](https://discord.com/users/567641525706686474)
 
 [Twitter 🐦](https://twitter.com/nitlixis)
