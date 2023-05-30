@@ -49,4 +49,4 @@ My current side project is <a href="https://axelify.com" target=_blank>Axelify (
 
 
 <h2>Random Achievements 🏆:</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=anmolplayzz&theme=tokyonight">
+<img src="https://github-profile-trophy.vercel.app/?username=nitlix&theme=tokyonight">
