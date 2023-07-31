@@ -58,6 +58,12 @@ I have a passion for clean and terribly fast code developer and user first as we
 <a href="mailto:n@nitlix.pro">Email (n@nitlix.pro) 📬</a>
 </p>
 
+<br />
+
+<h2>My activity 🤑</h2>
+<figure><embed src="https://wakatime.com/share/@5f6652ed-17e6-4401-9ef1-13a33abcd426/329cc620-d903-469d-9be7-e0ff16f79848.svg"></embed></figure>
+
+<br />
 
 <h2>Random Achievements 🏆:</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=nitlix&theme=tokyonight">
