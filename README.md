@@ -61,8 +61,11 @@ I have a passion for clean and terribly fast code developer and user first as we
 <br />
 
 <h2>My activity 🤑</h2>
-<img src="https://wakatime.com/share/@5f6652ed-17e6-4401-9ef1-13a33abcd426/329cc620-d903-469d-9be7-e0ff16f79848.svg" style="width: 30rem; max-width: 100%">
-<img src="https://wakatime.com/share/@nitlix/e7841d0c-1956-410b-9d99-87e1e0bd713e.png" style="width: 30rem; max-width: 100%">
+
+<p align="center">
+    <img src="https://wakatime.com/share/@5f6652ed-17e6-4401-9ef1-13a33abcd426/329cc620-d903-469d-9be7-e0ff16f79848.svg" style="width: 30rem; max-width: 45%">
+    <img src="https://wakatime.com/share/@nitlix/e7841d0c-1956-410b-9d99-87e1e0bd713e.png" style="width: 30rem; max-width: 45%">
+</p>
 
 <br />
 
