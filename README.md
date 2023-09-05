@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/66027553?v=4" align="center" height="130" style="border-radius: 50%">
+    <img src="https://static.nitlix.pro/github_main.png" align="center" />
 </p>
 
 <center>
@@ -43,32 +43,5 @@ I have a passion for clean and terribly fast code developer and user first as we
 
 <br />
 <br />
-<p align="center" style="max-width: 50rem; font-style: italic;">Mates... I have 5 times more private repos than public repos, so don't you worry about how much I code.</p>
-
+<p align="center" style="max-width: 50rem; font-style: italic;">And for the last but not least... check out me website 👉 <a href="https://www.nitlix.pro" target="_blank">nitlix.pro</a></p>
 <br />
-
-<h2>My Socials 🎧</h2>
-
-<a href="https://discord.com/users/567641525706686474"> Discord 🎮</a>
-
-<a href="https://twitter.com/nitlixis">Twitter 🐦</a>
-
-<a href="https://nitlix.pro">Website 🌍</a>
-
-<a href="mailto:n@nitlix.pro">Email (n@nitlix.pro) 📬</a>
-</p>
-
-<br />
-
-<h2>My activity 🤑</h2>
-
-<p align="center">
-    <img src="https://wakatime.com/share/@5f6652ed-17e6-4401-9ef1-13a33abcd426/329cc620-d903-469d-9be7-e0ff16f79848.svg" style="width: 30rem; max-width: 45%">
-    <img src="https://wakatime.com/share/@nitlix/e7841d0c-1956-410b-9d99-87e1e0bd713e.png" style="width: 30rem; max-width: 45%">
-</p>
-
-<br />
-
-<h2>Random Achievements 🏆:</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=nitlix&theme=tokyonight">
-<center>
