@@ -4,7 +4,7 @@
 </p>
 
 <center>
-<h1 align="center" style="font-size: 10rem">Howdy there, I'm Nit 👋</h1>
+<h1 align="center">Howdy there, I'm Nit 👋</h1>
 <p align="center" style="max-width: 40rem">I'm currently a student on the outside, however really:</p>
 
 
