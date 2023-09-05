@@ -36,7 +36,7 @@ I have a passion for clean and terribly fast code developer and user first as we
   
 <p align="center">
     <a href="https://nitlix.pro" target="_blank">
-        <img alt="Skills" src="https://skillicons.dev/icons?i=ts,html,css,py,md,nodejs,git,nextjs,react,bots,vscode,svg,discord,github,linux,cloudflare,js,postgres,vercel,sass&perline=10">
+        <img alt="Skills" src="https://skillicons.dev/icons?i=ts,nextjs,react,html,css,py,md,nodejs,git,express,flask,bots,vscode,svg,discord,github,linux,cloudflare,js,postgres,vercel,sass,&perline=11">
     </a>
 </p>
 
