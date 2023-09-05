@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://static.nitlix.pro/github_main.png" align="center" />
+    <img src="https://static.nitlix.pro/github_new.png" align="center" />
 </p>
 
 <center>
