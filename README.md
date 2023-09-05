@@ -9,12 +9,12 @@
 
 
 <p align="center" style="max-width: 40rem">
-<i><b>I'm an Entrepreneur, Web Dev, Server Dev/Designer, Project Manager, and an Open Source Contributor 💛🔥 since '19 on the inside.</b></i>
+<i><b>I'm an Entrepreneur, <br />Web Dev, <br />Server Dev/Designer, <br />Project Manager, <br />and an Open Source Contributor 💛🔥 <br />since '19 on the inside.</b></i>
 </p>
 
 
 <p align="center" style="max-width: 50rem">
-I'm currently working at <a href="https://nitlix.pro" target=_blank>Nitlix S.T., Moonsense, Flantic, Venix, JD, MoonSS, Sunset Utilities, NightDesign, Roam and GreenBot. 🥳</a> and working on Axelify, Sapsar, Lixbase, Lixtools and more!
+I'm currently working at <a href="https://nitlix.pro" target=_blank>Nitlix S.T., Moonsense, Flantic, Venix, JD, MoonSS, Sunset Utilities, NightDesign, Roam, Atherium, VTRL, Sapsar and GreenBot. 🥳</a> and working on Axelify, Sapsar, Lixbase, Lixtools and more!
 </p>
 
 <p align="center" style="max-width: 50rem">
