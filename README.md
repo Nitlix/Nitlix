@@ -14,18 +14,18 @@
 
 
 <p align="center" style="max-width: 50rem">
-I'm currently working at <a href="https://nitlix.pro" target=_blank>Nitlix S.T., Moonsense, Flantic, Venix, JD, MoonSS, Sunset Utilities, NightDesign, Roam, Atherium, VTRL, Sapsar and GreenBot. 🥳</a> and working on Axelify, Sapsar, Lixbase, Lixtools and more!
+I'm currently working at <a href="https://www.nitlix.pro" target=_blank>LAG Studios, Venix, Atherium, GreenBot and more. 🥳</a> ...and working on Axelify, NNT and more!
 </p>
 
 <p align="center" style="max-width: 50rem">
-I have a passion for clean and terribly fast code developer and user first as well as optimised and free for all analytics and making the internet a private and safe place. I'm that one guy who already changed everything, but you didn't notice 🤯
+I have a passion for making clean fullstack applications, efficiency and user first, as well as making the internet a private and safe place.
 </p>
 
 
 
 <p align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/nitlix">
-    <a href="https://nitlix.pro">
+    <a href="https://www.nitlix.pro">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-green">
     </a>
     <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=nitlix&label=PROFILE+VIEWS&color=blueviolet">
