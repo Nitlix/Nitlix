@@ -14,7 +14,7 @@
 
 
 <p align="center" style="max-width: 50rem">
-I'm currently working at <a href="https://www.nitlix.pro" target=_blank>LAG Studios, Venix, Atherium, GreenBot and more. 🥳</a> ...and working on Axelify, NNT and more!
+I'm currently working at <a href="https://www.nitlix.pro" target=_blank>LAG Studios, Venix, Aetherium, GreenBot and more. 🥳</a> ...and working on Axelify, NNT and more!
 </p>
 
 <p align="center" style="max-width: 50rem">
