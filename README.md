@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img src="https://static.nitlix.pro/github/github_nitlix_v8_4.png" align="center" />
-</p>
-
 <center>
 <h1 align="center">Howdy there, I'm Nit 🤯</h1>
 <p align="center" style="max-width: 40rem">I'm currently a student on the outside, however really:</p>
