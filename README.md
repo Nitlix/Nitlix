@@ -1,13 +1,9 @@
-
-<h1>
-<div style="display: flex; flex-direction: row; gap:.75rem; align-items: center; padding-bottom: 1rem;">
 <img src="https://static.nitlix.pro/github/nitlixWhite.svg" style="width: 3rem" />
 
-<span>
-Howdy there, I'm Nit 🤯</span></djv>
-
-</h1>
 <br />
+
+<h1>Howdy there, I'm Nit 🤯</h1>
+
 <p style="max-width: 40rem;">I'm currently a student on the outside, however really:</p>
 
 
