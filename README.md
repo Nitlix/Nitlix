@@ -1,17 +1,14 @@
 
 <h1>
-<div style="display: flex; flex-direction: row; gap:1rem; align-items: center; padding-bottom: 1rem;">
-<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 3rem; ">
-    <path d="M6 45L0 40V100L35 80V70L6 45Z" fill="white" />
-    <path d="M94 56L0 0V39L6 44L100 100V61L94 56Z" fill="white" />
-    <path d="M94 55L100 60V0L65 20V30L94 55Z" fill="white" />
-</svg>
+<div style="display: flex; flex-direction: row; gap:.75rem; align-items: center; padding-bottom: 1rem;">
+<img src="https://static.nitlix.pro/github/nitlixWhite.svg" style="width: 3rem" />
 
 <span>
 Howdy there, I'm Nit 🤯</span></djv>
 
 </h1>
-<p style="max-width: 40rem; margin-top: 2rem;">I'm currently a student on the outside, however really:</p>
+<br />
+<p style="max-width: 40rem;">I'm currently a student on the outside, however really:</p>
 
 
 <p style="max-width: 40rem">
