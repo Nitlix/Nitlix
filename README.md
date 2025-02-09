@@ -1,6 +1,5 @@
 <img src="https://static.nitlix.pro/github/nitlixWhite.svg" style="width: 3rem" />
 
-<br />
 
 <h1>Howdy there, I'm Nit 🤯</h1>
 
