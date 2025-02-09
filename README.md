@@ -4,12 +4,12 @@
 
 
 <p align="center" style="max-width: 40rem">
-<i><b>I'm an Entrepreneur, <br />Web Dev, <br />Server Dev/Designer, <br />Project Manager, <br />and an Open Source Contributor 💛🔥 <br />since '19 on the inside.</b></i>
+<i><b>I'm an Entrepreneur, <br />Fullstack Dev, <br />Sys Admin, <br />Project Manager, <br />and an Open Source Contributor 🧡🔥 <br />since '19 on the inside.</b></i>
 </p>
 
 
 <p align="center" style="max-width: 50rem">
-I'm currently working at <a href="https://www.nitlix.pro" target=_blank>LAG Studios, Venix, Aetherium, GreenBot and more. 🥳</a> ...and working on Axelify, NNT and more!
+I'm currently working at <a href="https://www.nitlix.net" target=_blank>refyne, Rudescore, Lithium, Nitlix, Crackpixel and more. 🥳</a> ...and working on Axelify, NNT and more!
 </p>
 
 <p align="center" style="max-width: 50rem">
@@ -38,5 +38,5 @@ I have a passion for making clean fullstack applications, efficiency and user fi
 
 <br />
 <br />
-<p align="center" style="max-width: 50rem; font-style: italic;">And for the last but not least... check out me website 👉 <a href="https://www.nitlix.pro" target="_blank">nitlix.pro</a></p>
+<p align="center" style="max-width: 50rem; font-style: italic;">And for the last but not least... check out me website 👉 <a href="https://www.nitlix.net" target="_blank">nitlix.net</a></p>
 <br />
