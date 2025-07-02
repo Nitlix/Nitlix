@@ -10,7 +10,7 @@
 
 <br />
 <p style="max-width: 50rem">
-I'm currently working at <a href="https://www.nitlix.net" target=_blank>refyne, Rudescore, Lithium, Nitlix, Crackpixel and more. 🥳</a> ...and working on Axelify, NNT and more!
+I'm currently working at <a href="https://www.nitlix.net" target=_blank>Campfyr, MRPRO, Lithium, Nitzera, Avanguard and more. 🥳</a> ...and working on VCONN, NNT and more!
 </p>
 
 <p style="max-width: 50rem">
