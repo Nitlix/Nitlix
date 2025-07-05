@@ -17,10 +17,8 @@ I'm currently working at <a href="https://www.nitlix.net" target=_blank>Campfyr,
 I have a passion for making clean fullstack applications, efficiency and user first, as well as making the internet a private and safe place.
 </p>
 
-
-
 <p>
-    <img alt="WakaTime Hours" src="https://wakatime.com/badge/user/5f6652ed-17e6-4401-9ef1-13a33abcd426.svg)](https://wakatime.com/@5f6652ed-17e6-4401-9ef1-13a33abcd426">
+    <img alt="WakaTime Hours" src="https://wakatime.com/badge/user/5f6652ed-17e6-4401-9ef1-13a33abcd426.svg">
     <a href="https://www.nitlix.pro">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-green">
     </a>
