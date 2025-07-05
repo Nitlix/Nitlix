@@ -20,7 +20,7 @@ I have a passion for making clean fullstack applications, efficiency and user fi
 
 
 <p>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/nitlix">
+    <img alt="WakaTime Hours" src="https://wakatime.com/badge/user/5f6652ed-17e6-4401-9ef1-13a33abcd426.svg)](https://wakatime.com/@5f6652ed-17e6-4401-9ef1-13a33abcd426">
     <a href="https://www.nitlix.pro">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-green">
     </a>
