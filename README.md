@@ -2,12 +2,9 @@
 
 <p style="max-width: 50rem;">10x Developer, Student, Cloudflare addict and Founder of random yet-to-be-Unicorn Startups</p>
 
-<img src="https://raw.githubusercontent.com/Nitlix/Nitlix/refs/heads/main/render2.gif" alt="Nitlix Wallpaper" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Nitlix/Nitlix/refs/heads/main/render3.webp" alt="Nitlix Wallpaper" style="width: 100%; height: auto;">
 
 <br />
-<p style="max-width: 50rem">
-I'm currently working at <a href="https://nitlix.net" target=_blank>Campfyr, MRPro, Lithium, Nitzera, Avanguard</a> ...and working on Lixnet, NNT and more
-</p>
 
 <p style="max-width: 50rem; font-style: italic;">
 Caught your attention? Check out me website 👉 <a href="https://nitlix.net" target="_blank">nitlix.net</a>
