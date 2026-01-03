@@ -2,7 +2,7 @@
 
 <p style="max-width: 50rem;">10x Developer, Student, Cloudflare addict and Founder of random yet-to-be-Unicorn Startups</p>
 
-<img src="https://raw.githubusercontent.com/Nitlix/Nitlix/refs/heads/main/render3.webp" alt="Nitlix Wallpaper" style="width: 100%; height: auto;">
+<img src="https://github.com/Nitlix/Nitlix/blob/4a419e0a1f827e61c23a1d95b332a3a5a61ff8c3/render3.webp" alt="Nitlix Wallpaper" style="width: 100%; height: auto;">
 
 <br />
 
